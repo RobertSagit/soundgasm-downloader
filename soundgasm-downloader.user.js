@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Soundgasm Downloader
-// @namespace    http://jacenboy.ml/
+// @namespace    https://github.com/RobertSagit/soundgasm-downloader
 // @version      1.0
 // @description  Add a download link to Soundgasm.net links
-// @author       JacenBoy
+// @author       RobertSagit
 // @match        https://soundgasm.net/u/*/*
 // @grant        none
 // ==/UserScript==
