@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Add a download link to Soundgasm.net links
 // @author       RobertSagit
-// @match        https://soundgasm.net/u/*/*
+// @match        http*://soundgasm.net/u/*/*
 // @grant        none
 // ==/UserScript==
 
